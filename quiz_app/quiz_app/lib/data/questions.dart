@@ -25,7 +25,7 @@ const questions = [
     ],
   ),
   QuizQuestion(
-    'What premier Legue team went the whole season without losing?',
+    'What premier League team went the whole season without losing?',
     [
       'Arsenal',
       'Manchester City',
@@ -36,8 +36,8 @@ const questions = [
   QuizQuestion(
     'Who has the most recorded hat-tricks in Champions League history?',
     [
-      'Karim Benzema',
       'Lionel Messi and Cristiano Ronaldo',
+      'Karim Benzema',
       'Lionel Messi',
       'Luis Figo',
     ],
